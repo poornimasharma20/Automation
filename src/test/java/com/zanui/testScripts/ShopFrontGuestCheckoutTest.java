@@ -16,6 +16,7 @@ import com.zanui.lib.main.BaseTest;
  * @author Poornima
  * 
  * This class tests the guest checkout process
+ * Testing commit
  *
  */
 public class ShopFrontGuestCheckoutTest extends BaseTest {
