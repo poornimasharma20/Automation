@@ -14,7 +14,7 @@ import com.zanui.lib.main.BaseTest;
 
 
 /**
- * @author Poornima Sharma
+ * @author Poornima Sharma20
  *
  */
 public class ShopFrontGuestCheckoutTest extends BaseTest {
