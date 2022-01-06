@@ -12,13 +12,9 @@ import com.zanui.components.pages.ShopFrontAddressPage;
 import com.zanui.components.pages.ShopFrontCartPage;
 import com.zanui.lib.main.BaseTest;
 
+
 /**
- * @author Poornima
- * 
- * This class tests the guest checkout process
- * Testing commit
- * Testing again
- * Testing practice
+ * @author poornima
  *
  */
 public class ShopFrontGuestCheckoutTest extends BaseTest {
