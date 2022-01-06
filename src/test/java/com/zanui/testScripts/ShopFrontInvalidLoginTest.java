@@ -18,7 +18,7 @@ package com.zanui.testScripts;
 	/**
 	 * 
 	 * @author Pooja Bagga
-	 *
+	 * This test validates the checkout flow 
 	 */
 	@NoArgsConstructor
 	public class ShopFrontInvalidLoginTest extends BaseTest {
