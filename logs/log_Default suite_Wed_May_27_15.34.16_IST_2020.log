@@ -1,0 +1,26 @@
+May 27, 2020 3:34:16 PM ShopFrontGuestCheckoutTest 
+FINER: ENTRY
+May 27, 2020 3:34:41 PM  TC001 - HomePageLaunched
+INFO: Logout successful
+May 27, 2020 3:35:05 PM  TC002 - Search Product
+INFO: Logout successful
+May 27, 2020 3:35:18 PM  TC003 - Add Product
+INFO: Logout successful
+May 27, 2020 3:35:51 PM  TC004 - Checkout
+INFO: Logout Failed
+May 27, 2020 3:36:08 PM  TC005 - Checkout as guest
+INFO: Logout successful
+May 27, 2020 3:36:27 PM  TC006 - Shiiping Address
+INFO: Logout successful
+May 27, 2020 3:36:35 PM  TC007 - Payment
+INFO: Column 'CardholderName' does not exist in test data file
+May 27, 2020 3:36:36 PM  TC007 - Payment
+INFO: Column 'CardNumber' does not exist in test data file
+May 27, 2020 3:36:37 PM  TC007 - Payment
+INFO: Column 'CardMonth' does not exist in test data file
+May 27, 2020 3:36:47 PM  TC008 - Place Order
+INFO: Element '[[ChromeDriver: chrome on WINDOWS (5cbd134e1313445164ac9b4c1067024b)] -> xpath: //a[@data-behat='complete-purchase']]' is present in the DOM, but not able to interact 
+May 27, 2020 3:37:06 PM  TC008 - Place Order
+INFO: Logout Failed
+May 27, 2020 3:37:08 PM ShopFrontGuestCheckoutTest 
+FINER: RETURN

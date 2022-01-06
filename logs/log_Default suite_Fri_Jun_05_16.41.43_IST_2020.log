@@ -1,0 +1,16 @@
+Jun 05, 2020 4:41:43 PM ShopFrontLoggedInCheckoutTest 
+FINER: ENTRY
+Jun 05, 2020 4:42:25 PM  TC001 - HomePageLaunched
+INFO: Application Launched successful
+Jun 05, 2020 4:42:35 PM  TC002 - Login SF
+INFO: Logout successful
+Jun 05, 2020 4:43:17 PM  TC004 - Add Product
+INFO: Product Added successfully
+Jun 05, 2020 4:43:56 PM  TC005 - Checkout
+INFO: Proceed to Checkout failed
+Jun 05, 2020 4:44:28 PM  TC006 - Place Order
+INFO: Review Order successful
+Jun 05, 2020 4:44:37 PM  TC007 - Logout SF
+INFO: Logout successful
+Jun 05, 2020 4:44:39 PM ShopFrontLoggedInCheckoutTest 
+FINER: RETURN

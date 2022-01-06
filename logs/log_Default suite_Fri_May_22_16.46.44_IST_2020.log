@@ -1,0 +1,18 @@
+May 22, 2020 4:46:44 PM ShopFrontGuestCheckoutTest 
+FINER: ENTRY
+May 22, 2020 4:47:22 PM  TC001 - HomePageLaunched
+INFO: Logout successful
+May 22, 2020 4:47:47 PM  TC002 - Search Product
+INFO: Logout successful
+May 22, 2020 4:48:03 PM  TC003 - Add Product
+INFO: Logout successful
+May 22, 2020 4:48:41 PM  TC004 - Checkout
+INFO: Logout Failed
+May 22, 2020 4:48:57 PM  TC005 - Checkout as guest
+INFO: Logout successful
+May 22, 2020 4:49:06 PM  TC006 - Shiiping Address
+INFO: Column 'FirstName' does not exist in test data file
+May 22, 2020 4:49:24 PM  TC007 - Payment
+INFO: Element 'id#//input[@id='option-credit-card']' is not found in the application
+May 22, 2020 4:49:26 PM ShopFrontGuestCheckoutTest 
+FINER: RETURN

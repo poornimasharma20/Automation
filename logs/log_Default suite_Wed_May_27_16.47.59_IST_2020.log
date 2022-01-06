@@ -1,0 +1,22 @@
+May 27, 2020 4:47:59 PM ShopFrontGuestCheckoutTest 
+FINER: ENTRY
+May 27, 2020 4:48:22 PM  TC001 - HomePageLaunched
+INFO: Logout successful
+May 27, 2020 4:48:52 PM  TC002 - Search Product
+INFO: Logout successful
+May 27, 2020 4:49:03 PM  TC003 - Add Product
+INFO: Logout successful
+May 27, 2020 4:49:33 PM  TC004 - Checkout
+INFO: Logout Failed
+May 27, 2020 4:49:50 PM  TC005 - Checkout as guest
+INFO: Logout successful
+May 27, 2020 4:50:09 PM  TC006 - Shiiping Address
+INFO: Logout successful
+May 27, 2020 4:50:37 PM  TC007 - Payment
+INFO: Logout successful
+May 27, 2020 4:50:47 PM  TC008 - Place Order
+INFO: Element '[[ChromeDriver: chrome on WINDOWS (7630c8cc3afabd3e1b14b8d563a87375)] -> xpath: //a[@data-behat='complete-purchase']]' is present in the DOM, but not able to interact 
+May 27, 2020 4:51:06 PM  TC008 - Place Order
+INFO: Logout Failed
+May 27, 2020 4:51:08 PM ShopFrontGuestCheckoutTest 
+FINER: RETURN

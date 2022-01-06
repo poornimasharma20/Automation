@@ -1,0 +1,16 @@
+May 22, 2020 4:51:10 PM ShopFrontGuestCheckoutTest 
+FINER: ENTRY
+May 22, 2020 4:51:35 PM  TC001 - HomePageLaunched
+INFO: Logout successful
+May 22, 2020 4:51:56 PM  TC002 - Search Product
+INFO: Logout successful
+May 22, 2020 4:52:09 PM  TC003 - Add Product
+INFO: Logout successful
+May 22, 2020 4:52:41 PM  TC004 - Checkout
+INFO: Logout Failed
+May 22, 2020 4:52:59 PM  TC005 - Checkout as guest
+INFO: Logout successful
+May 22, 2020 4:53:26 PM  TC007 - Payment
+INFO: Element 'id#//input[@id='option-credit-card']' is not found in the application
+May 22, 2020 4:53:28 PM ShopFrontGuestCheckoutTest 
+FINER: RETURN

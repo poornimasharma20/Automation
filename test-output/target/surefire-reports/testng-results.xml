@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="ZANUI AUTOMATION TEST SUITE" duration-ms="52240" started-at="2020-05-19T13:09:03 IST" finished-at="2020-05-19T13:09:56 IST">
+    <groups>
+    </groups>
+    <test name="ShopFrontLoggedInCheckoutTest" duration-ms="52240" started-at="2020-05-19T13:09:03 IST" finished-at="2020-05-19T13:09:56 IST">
+      <class name="com.zanui.testScripts.ShopFrontLoggedInCheckoutTest">
+        <test-method status="PASS" signature="beforeSuite(org.testng.ITestContext)[pri:0, instance:com.zanui.testScripts.ShopFrontLoggedInCheckoutTest@628b843c]" name="beforeSuite" is-config="true" duration-ms="840" started-at="2020-05-19T13:09:03 IST" finished-at="2020-05-19T13:09:03 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@28012565]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.zanui.testScripts.ShopFrontLoggedInCheckoutTest@628b843c]" name="beforeTest" is-config="true" duration-ms="9040" started-at="2020-05-19T13:09:03 IST" finished-at="2020-05-19T13:09:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.zanui.testScripts.ShopFrontLoggedInCheckoutTest@628b843c]" name="setUp" is-config="true" duration-ms="0" started-at="2020-05-19T13:09:13 IST" finished-at="2020-05-19T13:09:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="beforeTestCase(java.lang.reflect.Method)[pri:0, instance:com.zanui.testScripts.ShopFrontLoggedInCheckoutTest@628b843c]" name="beforeTestCase" is-config="true" duration-ms="0" started-at="2020-05-19T13:09:13 IST" finished-at="2020-05-19T13:09:13 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.zanui.testScripts.ShopFrontLoggedInCheckoutTest.LaunchHomePage()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestCase -->
+        <test-method status="PASS" signature="LaunchHomePage()[pri:0, instance:com.zanui.testScripts.ShopFrontLoggedInCheckoutTest@628b843c]" name="LaunchHomePage" duration-ms="14570" started-at="2020-05-19T13:09:13 IST" description="Home Page is opened" finished-at="2020-05-19T13:09:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchHomePage -->
+        <test-method status="PASS" signature="beforeTestCase(java.lang.reflect.Method)[pri:0, instance:com.zanui.testScripts.ShopFrontLoggedInCheckoutTest@628b843c]" name="beforeTestCase" is-config="true" duration-ms="0" started-at="2020-05-19T13:09:27 IST" finished-at="2020-05-19T13:09:27 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.zanui.testScripts.ShopFrontLoggedInCheckoutTest.LoginStoreFront()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestCase -->
+        <test-method status="PASS" signature="LoginStoreFront()[pri:1, instance:com.zanui.testScripts.ShopFrontLoggedInCheckoutTest@628b843c]" name="LoginStoreFront" duration-ms="5340" started-at="2020-05-19T13:09:27 IST" description="Login the Store Front" finished-at="2020-05-19T13:09:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginStoreFront -->
+        <test-method status="PASS" signature="SearchProduct()[pri:2, instance:com.zanui.testScripts.ShopFrontLoggedInCheckoutTest@628b843c]" name="SearchProduct" duration-ms="12726" started-at="2020-05-19T13:09:32 IST" description="Search product on Store Front" finished-at="2020-05-19T13:09:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchProduct -->
+        <test-method status="PASS" signature="beforeTestCase(java.lang.reflect.Method)[pri:0, instance:com.zanui.testScripts.ShopFrontLoggedInCheckoutTest@628b843c]" name="beforeTestCase" is-config="true" duration-ms="0" started-at="2020-05-19T13:09:32 IST" finished-at="2020-05-19T13:09:32 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.zanui.testScripts.ShopFrontLoggedInCheckoutTest.SearchProduct()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestCase -->
+        <test-method status="PASS" signature="beforeTestCase(java.lang.reflect.Method)[pri:0, instance:com.zanui.testScripts.ShopFrontLoggedInCheckoutTest@628b843c]" name="beforeTestCase" is-config="true" duration-ms="0" started-at="2020-05-19T13:09:45 IST" finished-at="2020-05-19T13:09:45 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.zanui.testScripts.ShopFrontLoggedInCheckoutTest.AddProductToCart()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestCase -->
+        <test-method status="PASS" signature="AddProductToCart()[pri:3, instance:com.zanui.testScripts.ShopFrontLoggedInCheckoutTest@628b843c]" name="AddProductToCart" duration-ms="8670" started-at="2020-05-19T13:09:45 IST" description="Add product on Store Front" finished-at="2020-05-19T13:09:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddProductToCart -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.zanui.testScripts.ShopFrontLoggedInCheckoutTest@628b843c]" name="afterTest" is-config="true" duration-ms="1860" started-at="2020-05-19T13:09:54 IST" finished-at="2020-05-19T13:09:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.zanui.testScripts.ShopFrontLoggedInCheckoutTest@628b843c]" name="afterSuite" is-config="true" duration-ms="2660" started-at="2020-05-19T13:09:56 IST" finished-at="2020-05-19T13:09:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.zanui.testScripts.ShopFrontLoggedInCheckoutTest -->
+    </test> <!-- ShopFrontLoggedInCheckoutTest -->
+  </suite> <!-- ZANUI AUTOMATION TEST SUITE -->
+</testng-results>

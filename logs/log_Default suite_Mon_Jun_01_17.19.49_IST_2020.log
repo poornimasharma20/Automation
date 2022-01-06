@@ -1,0 +1,18 @@
+Jun 01, 2020 5:19:49 PM ShopFrontGuestCheckoutTest 
+FINER: ENTRY
+Jun 01, 2020 5:20:20 PM  TC001 - HomePageLaunched
+INFO: Application Launched successful
+Jun 01, 2020 5:20:53 PM  TC003 - Add Product
+INFO: Product Added successfully
+Jun 01, 2020 5:21:23 PM  TC004 - Checkout
+INFO: Proceed to Checkout failed
+Jun 01, 2020 5:21:40 PM  TC005 - Checkout as guest
+INFO: Checkout as guest is successful
+Jun 01, 2020 5:21:59 PM  TC006 - Shiiping Address
+INFO: Address checkout is successful
+Jun 01, 2020 5:22:26 PM  TC007 - Payment
+INFO: Payment successful
+Jun 01, 2020 5:22:45 PM  TC008 - Place Order
+INFO: Review Order successful
+Jun 01, 2020 5:29:50 PM ShopFrontGuestCheckoutTest 
+FINER: RETURN

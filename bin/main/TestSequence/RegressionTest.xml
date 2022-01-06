@@ -1,0 +1,12 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name = "ZanuiShop Test Automation Suite">
+
+   <test name = "ZanuiShop Test cases">
+      <classes>
+         <class name="test.java.com.intershop.zanui.tests.HomePageTest"/>
+         <class name="test.java.com.intershop.zanui.tests.LoginPageTest"/>
+      </classes>
+   </test>
+</suite>  	

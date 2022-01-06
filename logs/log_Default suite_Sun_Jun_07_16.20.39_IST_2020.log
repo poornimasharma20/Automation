@@ -1,0 +1,8 @@
+Jun 07, 2020 4:20:39 PM ShopFrontInvalidLoginTest 
+FINER: ENTRY
+Jun 07, 2020 4:21:05 PM  TC001 - HomePageLaunched
+INFO: Application Launched successful
+Jun 07, 2020 4:21:15 PM  TC002 - Invalid Login SF
+INFO: Logout successful
+Jun 07, 2020 4:21:16 PM ShopFrontInvalidLoginTest 
+FINER: RETURN

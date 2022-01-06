@@ -1,0 +1,16 @@
+May 29, 2020 9:01:51 AM ShopFrontGuestCheckoutTest 
+FINER: ENTRY
+May 29, 2020 9:02:17 AM  TC001 - HomePageLaunched
+INFO: Application Launched successful
+May 29, 2020 9:02:49 AM  TC003 - Add Product
+INFO: Logout successful
+May 29, 2020 9:03:19 AM  TC004 - Checkout
+INFO: Logout Failed
+May 29, 2020 9:03:36 AM  TC005 - Checkout as guest
+INFO: Logout successful
+May 29, 2020 9:03:55 AM  TC006 - Shiiping Address
+INFO: Logout successful
+May 29, 2020 9:04:22 AM  TC007 - Payment
+INFO: Logout successful
+May 29, 2020 9:04:24 AM ShopFrontGuestCheckoutTest 
+FINER: RETURN

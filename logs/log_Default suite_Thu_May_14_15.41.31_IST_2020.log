@@ -1,0 +1,18 @@
+May 14, 2020 3:41:32 PM ShopFrontHomePageTest 
+FINER: ENTRY
+May 14, 2020 3:41:52 PM  TC001 - HomePageLaunched
+INFO: Logout successful
+May 14, 2020 3:41:57 PM  TC002 - Login SF
+INFO: Logout successful
+May 14, 2020 3:42:11 PM  TC003 - Search Product
+INFO: Logout successful
+May 14, 2020 3:42:18 PM  TC004 - Add Product
+INFO: Logout successful
+May 14, 2020 3:42:20 PM  TC005 - Checkout
+INFO: Element '[[ChromeDriver: chrome on WINDOWS (8d3d5a2dcb0c0fb9d86165064c31e30b)] -> xpath: //a[@data-behat='checkout']]' is present in the DOM, but not able to interact 
+May 14, 2020 3:42:24 PM  TC005 - Checkout
+INFO: Logout successful
+May 14, 2020 3:43:11 PM  TC006 - Place Order
+INFO: Element '[[ChromeDriver: chrome on WINDOWS (8d3d5a2dcb0c0fb9d86165064c31e30b)] -> xpath: //a[@data-behat='complete-purchase']]' is present in the DOM, but not able to interact 
+May 14, 2020 3:43:24 PM  TC006 - Place Order
+INFO: Logout Failed

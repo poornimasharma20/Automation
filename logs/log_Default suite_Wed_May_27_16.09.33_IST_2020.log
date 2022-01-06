@@ -1,0 +1,16 @@
+May 27, 2020 4:09:33 PM ShopFrontGuestCheckoutTest 
+FINER: ENTRY
+May 27, 2020 4:10:00 PM  TC001 - HomePageLaunched
+INFO: Logout successful
+May 27, 2020 4:10:24 PM  TC002 - Search Product
+INFO: Logout successful
+May 27, 2020 4:10:38 PM  TC003 - Add Product
+INFO: Logout successful
+May 27, 2020 4:11:10 PM  TC004 - Checkout
+INFO: Logout Failed
+May 27, 2020 4:11:27 PM  TC005 - Checkout as guest
+INFO: Logout successful
+May 27, 2020 4:11:46 PM  TC006 - Shiiping Address
+INFO: Logout successful
+May 27, 2020 4:12:39 PM  TC007 - Payment
+INFO: Column 'CardholderName' does not exist in test data file

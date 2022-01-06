@@ -1,0 +1,10 @@
+May 22, 2020 3:43:04 PM ShopFrontGuestCheckoutTest 
+FINER: ENTRY
+May 22, 2020 3:44:13 PM  TC001 - HomePageLaunched
+INFO: Logout successful
+May 22, 2020 3:44:45 PM  TC002 - Search Product
+INFO: Logout successful
+May 22, 2020 3:45:08 PM  TC003 - Add Product
+INFO: Logout successful
+May 22, 2020 3:45:54 PM  TC004 - Checkout
+INFO: Logout Failed
