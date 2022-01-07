@@ -16,7 +16,7 @@ import lombok.NoArgsConstructor;
  * Objective: Create a test case to validate the checkout flow for Logged In user
  * Parameters:
  * Author: Pooja bagga
- * Updated by and when:
+ * Updated by and when:January
  **************************************************************************/
 
 /**
