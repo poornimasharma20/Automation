@@ -28,6 +28,11 @@ import lombok.NoArgsConstructor;
 public class ShopFrontLoggedInCheckoutTest extends BaseTest {
 
 	ShopFrontLogg edInCheckoutTest loggedInCheckout;
+	
+	public ShopFrontLoggedInCheckoutTest () {
+		
+		
+	}
 
 	@BeforeClass
 	public void setUp() {

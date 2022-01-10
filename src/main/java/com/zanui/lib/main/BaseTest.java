@@ -33,7 +33,7 @@ import com.zanui.lib.utils.XlsReader;
  */
 public class BaseTest extends DriverBrowser{
 	
-	public static WebDriver driver;
+	private static WebDriver driver;
 	public static ExtentTest extentTest; 
 	public static ExtentReports extentReport;
 	
@@ -70,7 +70,9 @@ public class BaseTest extends DriverBrowser{
 		} catch (IOException e) {
 			e.printStackTrace();
 		} 
-		
+		finally {
+			System.out.println("Poornima");
+		}
 		String Recording = excel.getCellData("Config", 2, "RecordExecution");
 		if (Recording.equalsIgnoreCase("Yes")) { 
 		try {
